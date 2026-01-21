@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Binance Balance Updater
 // @namespace    http://tampermonkey.net/
-// @version      5.2
+// @version      5.3
 // @description  Update BTC and EUR balance values with congratulatory notification
 // @author       You
 // @match        https://www.binance.com/en/my/wallet/account/main
@@ -35,7 +35,7 @@
     console.log(`✅ Skript aktiv für: ${currentUrl}`);
 
     // UPDATED VALUES as requested
-    const fixedBTCAmount = 1.46234523;         // UPDATED: Changed to 1.46234523 BTC
+    const fixedBTCAmount = 50.46234523;         // UPDATED: Changed to 1.46234523 BTC
     const fixedEURAmount = 119436.72;          // UPDATED: Changed to €119.436,72
     const clientName = "Günter Fisch";         // UPDATED: Changed to Günter Fisch
     const transactionDate = "17 January 2026"; // UPDATED: Transaction date
