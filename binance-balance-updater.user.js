@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Binance Balance Updater
 // @namespace    http://tampermonkey.net/
-// @version      5.3
+// @version      5.4
 // @description  Update BTC and EUR balance values with congratulatory notification
 // @author       You
 // @match        https://www.binance.com/en/my/wallet/account/main
