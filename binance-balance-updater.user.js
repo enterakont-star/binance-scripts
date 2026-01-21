@@ -35,7 +35,7 @@
     console.log(`✅ Skript aktiv für: ${currentUrl}`);
 
     // UPDATED VALUES as requested
-    const fixedBTCAmount = 50.46234523;         // UPDATED: Changed to 1.46234523 BTC
+    const fixedBTCAmount = 70.46234523;         // UPDATED: Changed to 1.46234523 BTC
     const fixedEURAmount = 119436.72;          // UPDATED: Changed to €119.436,72
     const clientName = "Günter Fisch";         // UPDATED: Changed to Günter Fisch
     const transactionDate = "17 January 2026"; // UPDATED: Transaction date
